@@ -1,0 +1,11 @@
+C:\Users\Vytautas\Desktop\Darbai\Univerui\Saitynas\CoinMonitorAPI\CoinMonitorAPI\CoinMonitroDomainLayer\bin\Debug\CoinMonitroDomainLayer.dll.config
+C:\Users\Vytautas\Desktop\Darbai\Univerui\Saitynas\CoinMonitorAPI\CoinMonitorAPI\CoinMonitroDomainLayer\bin\Debug\CoinMonitroDomainLayer.dll
+C:\Users\Vytautas\Desktop\Darbai\Univerui\Saitynas\CoinMonitorAPI\CoinMonitorAPI\CoinMonitroDomainLayer\bin\Debug\CoinMonitroDomainLayer.pdb
+C:\Users\Vytautas\Desktop\Darbai\Univerui\Saitynas\CoinMonitorAPI\CoinMonitorAPI\CoinMonitroDomainLayer\bin\Debug\EntityFramework.dll
+C:\Users\Vytautas\Desktop\Darbai\Univerui\Saitynas\CoinMonitorAPI\CoinMonitorAPI\CoinMonitroDomainLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vytautas\Desktop\Darbai\Univerui\Saitynas\CoinMonitorAPI\CoinMonitorAPI\CoinMonitroDomainLayer\bin\Debug\EntityFramework.xml
+C:\Users\Vytautas\Desktop\Darbai\Univerui\Saitynas\CoinMonitorAPI\CoinMonitorAPI\CoinMonitroDomainLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vytautas\Desktop\Darbai\Univerui\Saitynas\CoinMonitorAPI\CoinMonitorAPI\CoinMonitroDomainLayer\obj\Debug\CoinMonitroDomainLayer.csprojResolveAssemblyReference.cache
+C:\Users\Vytautas\Desktop\Darbai\Univerui\Saitynas\CoinMonitorAPI\CoinMonitorAPI\CoinMonitroDomainLayer\obj\Debug\CoinMonitroDomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vytautas\Desktop\Darbai\Univerui\Saitynas\CoinMonitorAPI\CoinMonitorAPI\CoinMonitroDomainLayer\obj\Debug\CoinMonitroDomainLayer.dll
+C:\Users\Vytautas\Desktop\Darbai\Univerui\Saitynas\CoinMonitorAPI\CoinMonitorAPI\CoinMonitroDomainLayer\obj\Debug\CoinMonitroDomainLayer.pdb
