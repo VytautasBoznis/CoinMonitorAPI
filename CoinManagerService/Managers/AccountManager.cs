@@ -32,6 +32,7 @@ namespace CoinManagerService.Managers
 			if (password != passwordRepeat)
 			{
 				return false;
+
 			}
 
 			using (var db = new UserContext())
