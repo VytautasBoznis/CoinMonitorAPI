@@ -9,3 +9,16 @@ C:\Users\Vytautas\Desktop\Darbai\Univerui\Saitynas\CoinMonitorAPI\CoinMonitorAPI
 C:\Users\Vytautas\Desktop\Darbai\Univerui\Saitynas\CoinMonitorAPI\CoinMonitorAPI\CoinManagerInterfaces\obj\Debug\CoinManagerInterfaces.csproj.CoreCompileInputs.cache
 C:\Users\Vytautas\Desktop\Darbai\Univerui\Saitynas\CoinMonitorAPI\CoinMonitorAPI\CoinManagerInterfaces\obj\Debug\CoinManagerInterfaces.dll
 C:\Users\Vytautas\Desktop\Darbai\Univerui\Saitynas\CoinMonitorAPI\CoinMonitorAPI\CoinManagerInterfaces\obj\Debug\CoinManagerInterfaces.pdb
+C:\Users\Vytautas\Desktop\CoinMonitorAPI\CoinMonitorAPI\CoinManagerInterfaces\bin\Debug\CoinManagerInterfaces.dll
+C:\Users\Vytautas\Desktop\CoinMonitorAPI\CoinMonitorAPI\CoinManagerInterfaces\bin\Debug\CoinManagerInterfaces.pdb
+C:\Users\Vytautas\Desktop\CoinMonitorAPI\CoinMonitorAPI\CoinManagerInterfaces\bin\Debug\CoinMonitroDomainLayer.dll
+C:\Users\Vytautas\Desktop\CoinMonitorAPI\CoinMonitorAPI\CoinManagerInterfaces\bin\Debug\EntityFramework.dll
+C:\Users\Vytautas\Desktop\CoinMonitorAPI\CoinMonitorAPI\CoinManagerInterfaces\bin\Debug\CoinMonitroDomainLayer.pdb
+C:\Users\Vytautas\Desktop\CoinMonitorAPI\CoinMonitorAPI\CoinManagerInterfaces\bin\Debug\CoinMonitroDomainLayer.dll.config
+C:\Users\Vytautas\Desktop\CoinMonitorAPI\CoinMonitorAPI\CoinManagerInterfaces\bin\Debug\EntityFramework.xml
+C:\Users\Vytautas\Desktop\CoinMonitorAPI\CoinMonitorAPI\CoinManagerInterfaces\obj\Debug\CoinManagerInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Vytautas\Desktop\CoinMonitorAPI\CoinMonitorAPI\CoinManagerInterfaces\obj\Debug\CoinManagerInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Vytautas\Desktop\CoinMonitorAPI\CoinMonitorAPI\CoinManagerInterfaces\obj\Debug\CoinManagerInterfaces.dll
+C:\Users\Vytautas\Desktop\CoinMonitorAPI\CoinMonitorAPI\CoinManagerInterfaces\obj\Debug\CoinManagerInterfaces.pdb
+C:\Users\Vytautas\Desktop\CoinMonitorAPI\CoinMonitorAPI\CoinManagerInterfaces\bin\Debug\CoinManagerInterfaces.dll.CodeAnalysisLog.xml
+C:\Users\Vytautas\Desktop\CoinMonitorAPI\CoinMonitorAPI\CoinManagerInterfaces\bin\Debug\CoinManagerInterfaces.dll.lastcodeanalysissucceeded

@@ -31,26 +31,5 @@ namespace CoinManagerService.Managers
 
 			return lastPrice;
 		}
-
-		public BalanceResponse GetUserBalance(string key, string secret)
-		{
-			RestRequest request = new RestRequest($"/balance/");
-			request.Method = Method.POST;
-			request.AddBody(new
-			{
-				key,
-				signature = secret,
-				nonce = DateTime.Now.Ticks
-			});
-
-			var response = _client.Execute<BalanceResponse>(request);
-
-			if (response.IsSuccessful && response.Data != null)
-			{
-				return response.Data;
-			}
-
-			return null;
-		}
 	}
 }

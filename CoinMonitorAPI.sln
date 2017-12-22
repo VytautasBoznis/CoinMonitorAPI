@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinManagerInterfaces", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinManagerServiceLayer", "CoinManagerService\CoinManagerServiceLayer.csproj", "{47C104FA-93A4-4064-A97F-6A5E40D81B6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinManagerServiceLayerTests", "CoinManagerServiceLayerTests\CoinManagerServiceLayerTests.csproj", "{68555529-ED96-4A64-A7D8-1D5C021EE994}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{47C104FA-93A4-4064-A97F-6A5E40D81B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47C104FA-93A4-4064-A97F-6A5E40D81B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47C104FA-93A4-4064-A97F-6A5E40D81B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68555529-ED96-4A64-A7D8-1D5C021EE994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68555529-ED96-4A64-A7D8-1D5C021EE994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68555529-ED96-4A64-A7D8-1D5C021EE994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68555529-ED96-4A64-A7D8-1D5C021EE994}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
